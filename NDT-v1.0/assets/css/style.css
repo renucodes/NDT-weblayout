@@ -78,6 +78,7 @@ ul{
     margin: 0 auto;
     list-style: none;
 }
+
 ul li {
 	list-style: none;
 	
@@ -263,10 +264,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .welcome-hero-txt { padding-top: 155px;}
 
 .welcome-hero-txt h2 {
-    font-size: 48px;
+    font-size: 20px;
     color: #fff;
+    text-align: left;
     font-weight: 700;
-    text-transform: uppercase;
     letter-spacing: 2.4px;
     line-height: 1.4;
 }
@@ -277,13 +278,13 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 }
 
 .welcome-hero-serch-box{margin-top: 78px;display: flex;}
-.welcome-hero-form {
+/*.welcome-hero-form {
     display: flex;
     background: #fff;
     height: 70px;
     border-radius: 3px;
     width: 85%;
-}
+}*/
 .single-welcome-hero-form {
     position: relative;
     display: flex;
